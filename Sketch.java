@@ -1,10 +1,7 @@
-
 import java.util.Arrays;
 
 import processing.core.PApplet;
 import processing.core.PImage;
-import processing.core.PFont;
-import processing.event.MouseEvent;
 
 public class Sketch extends PApplet {
 	
