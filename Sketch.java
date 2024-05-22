@@ -5,6 +5,12 @@ import processing.core.PImage;
 
 public class Sketch extends PApplet {
 	
+  /**
+   * Description: Creates an aim trainer game, where targets randomly spawn and the user must click on them to destroy the targets
+   * Also allows user to toggle between screens to change his/her username
+   * @author: E.Fung
+   */
+
   // Initializing variables
 	PImage imgCrosshair;
   int intMaxTargetNum = 0;
